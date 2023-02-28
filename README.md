@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello world! 👋
 
-<!--
-**JuanDXavier/JuanDXavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aos que se aventuraram até aqui!:
 
-Here are some ideas to get you started:
+Não tenho como me dedicar exclusivamente à programação atualmente, mas ainda sim, me interesso em sempre aprender algo novo e aprimorar o que já existe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div align=center>
+  <img height=180em src=https://github-readme-stats.vercel.app/api?username=JuanDXavier&icons=true&theme=highcontrast&include_all_commits>
+  <img height=150em src=https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDXavier&hide_progress=true&theme=highcontrast>
+</div>
+
+##
+
+
