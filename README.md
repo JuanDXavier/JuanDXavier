@@ -1,8 +1,6 @@
 ### Hello world! 👋
 
-Aos que se aventuraram até aqui!:
-
-Não tenho como me dedicar exclusivamente à programação atualmente, mas ainda sim, me interesso em sempre aprender algo novo e aprimorar o que já existe.
+Não tenho como me dedicar exclusivamente à programação atualmente, mas decidi deixar aqui um pouco do que eu faço.
 
 ##
 
